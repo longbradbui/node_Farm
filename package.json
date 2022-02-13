@@ -1,0 +1,18 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.jsn"
+  },
+  "author": "Long Bui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
